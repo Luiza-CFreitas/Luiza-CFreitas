@@ -5,4 +5,4 @@
 - 💞️ Sou apaixonada em animais e música
 - 📫 Meu contato é luizacustodiofreitas@gmail.com
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Luiza-CFreitas_icons=true)
+![Luiza-CFreitas Status](https://github-readme-stats.vercel.app/api?username=Luiza-CFreitas_icons=true)
