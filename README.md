@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Luiza Custódio
 
 - 👀 Interessada em controle, eletrônica, instrumentação e robótica
-- 🌱 Estou frequentemente aprendendo linguagens de programação
+- 🌱 Estou frequentemente aprendendo linguagens de programação e novos idiomas
 - 💞️ Sou apaixonada em animais e música
 - 📫 Meu contato é luizacustodiofreitas@gmail.com
 
